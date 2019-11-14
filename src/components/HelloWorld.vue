@@ -60,7 +60,7 @@
           href="http://vuex.vuejs.org/"
           target="_blank"
         >
-          vuex
+          vuex撒地方撒地方
         </a>
       </li>
       <li>
