@@ -1,7 +1,7 @@
 <template>
     <div class="text-center animated fadeInDown">
-        <h1 style="font-size: 100px">BFEC<br>Admin</h1>
-        <h3 class="font-bold">BFEC-admin后台管理系统</h3>
+        <h1 style="font-size: 100px">Admin</h1>
+        <h3 class="font-bold">admin后台管理系统</h3>
         <br>
         <!-- <button @click = "aaa">api测试按钮</button> -->
         <!-- <br> -->
@@ -46,6 +46,6 @@
         watch: {}
     }
 </script>
-
+<style lang="less">
 
 </style>

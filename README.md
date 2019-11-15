@@ -1,6 +1,11 @@
-# admindemo
+# dc_admin
 
-> A Vue.js project
+> dc-admin
+
+## node_modules修改
+``` bash
+   
+```
 
 ## Build Setup
 
